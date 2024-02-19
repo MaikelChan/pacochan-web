@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Imagina que estás durmiendo en tu casa y por la puerta de la entrada entran tres zombis mutantes. Tu objetivo es intentar escapar de tu casa.</p>",
+        "english": "<p>Imagine that you are sleeping at your home and three mutant zombies enter from the front door. Your objective is to escape out of your house.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Empezar juego",
+                "english": "Start game"
+            },
+            "link": "1/dormitorio-inicio"
+        }
+    ]
+}

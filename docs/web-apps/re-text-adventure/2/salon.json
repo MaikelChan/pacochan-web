@@ -1,0 +1,42 @@
+{
+    "initialSound": "susto",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡JODER! Cada vez se acercan más los zombis. ¿Qué haces?</p>",
+        "english": "<p>FUCK! The zombies are getting closer and closer. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ver la tele",
+                "english": "Watch the TV"
+            },
+            "link": "2/tele"
+        },
+        {
+            "description": {
+                "spanish": "Llamar por teléfono",
+                "english": "Use the phone"
+            },
+            "link": "2/telefono"
+        },
+        {
+            "description": {
+                "spanish": "Ir a la cocina",
+                "english": "Go to the kitchen"
+            },
+            "link": "2/cocina"
+        },
+        {
+            "description": {
+                "spanish": "Ir al pasillo",
+                "english": "Go to the corridor"
+            },
+            "link": "2/pasillo"
+        }
+    ]
+}

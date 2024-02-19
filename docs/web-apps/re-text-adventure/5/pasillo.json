@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¿A dónde quieres ir?</p>",
+        "english": "<p>Where do you want to go?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ir al segundo dormitorio",
+                "english": "Go to the second bedroom"
+            },
+            "link": "5/dormitorio2"
+        },
+        {
+            "description": {
+                "spanish": "Ir al baño",
+                "english": "Go to the bathroom"
+            },
+            "link": "5/bano"
+        },
+        {
+            "description": {
+                "spanish": "Bajar las escaleras",
+                "english": "Go downstairs"
+            },
+            "link": "5/salon"
+        }
+    ]
+}

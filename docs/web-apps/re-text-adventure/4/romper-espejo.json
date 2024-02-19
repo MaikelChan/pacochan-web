@@ -1,0 +1,35 @@
+{
+    "initialSound": "dimension",
+    "bgColors": [
+        "#fff",
+        "#0ff"
+    ],
+    "style": "mirror",
+    "description": {
+        "spanish": "<p>Como eres tonto del culo, al romper el espejo entras en la dimensión de los siete años de mala suerte.</p><p>Ahora tú eliges:</p>",
+        "english": "<p>Since you are a dumbass, breaking the mirror made you enter the dimension of the seven years of bad luck</p><p>Now you've got to choose:</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Quedarte en la dimensión y volver a empezar la partida",
+                "english": "Stay in the dimension and start a new game"
+            },
+            "link": "index"
+        },
+        {
+            "description": {
+                "spanish": "Escribir la contraseña para salir (Si fallas irás al infierno) <input type=\"password\" id=\"pass\" name=\"password\"> <input type=\"button\" id=\"validateButton\" value=\"Aceptar\" onclick=\"ValidatePassword()\">",
+                "english": "Write the password to escape (if you fail you will go to hell) <input type=\"password\" id=\"pass\" name=\"password\"> <input type=\"button\" id=\"validateButton\" value=\"Enter\" onclick=\"ValidatePassword()\">"
+            },
+            "link": ""
+        },
+        {
+            "description": {
+                "spanish": "Suicidarse",
+                "english": "Kill yourself"
+            },
+            "link": "4/suicidio"
+        }
+    ]
+}

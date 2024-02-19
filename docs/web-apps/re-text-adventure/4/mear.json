@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Ahora no me apetece.</p>",
+        "english": "<p>Now I don't feel like it.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/bano"
+        }
+    ]
+}

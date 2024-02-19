@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Los ruidos del piso de abajo son cada vez más fuertes! ¿Qué haces?</p>",
+        "english": "<p>The noises from downstairs are getting louder and louder! What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ir al baño",
+                "english": "Go to the bathroom"
+            },
+            "link": "2/bano"
+        },
+        {
+            "description": {
+                "spanish": "Ir al segundo dormitorio",
+                "english": "Go to the second bedroom"
+            },
+            "link": "2/dormitorio2"
+        },
+        {
+            "description": {
+                "spanish": "Bajar las escaleras",
+                "english": "Go downstairs"
+            },
+            "link": "2/salon"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>El suelo de la cocina sigue estando hecho un asco. ¿Qué haces?</p>",
+        "english": "<p>The kitchen's floor is still a mess. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Fregar el suelo",
+                "english": "Mop the floor"
+            },
+            "link": "5/fregar"
+        },
+        {
+            "description": {
+                "spanish": "Volver al salón",
+                "english": "Go back to the living room"
+            },
+            "link": "5/salon"
+        }
+    ]
+}

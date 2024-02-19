@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Te has cargado la cerradura. Ahora sí que no se abrirá. Aunque... todavía queda una posibilidad... ¿Qué haces?</p>",
+        "english": "<p>You broke the lock. Now it definitely won't open. However... there's still a possibility... What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/salon"
+        }
+    ]
+}

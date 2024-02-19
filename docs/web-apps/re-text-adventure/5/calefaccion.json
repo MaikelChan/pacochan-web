@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¿Qué quieres hacer con la calefacción?</p>",
+        "english": "<p>What do you want to do with the heating?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Apagarla",
+                "english": "Turn it off"
+            },
+            "link": "5/apagar-calefaccion"
+        },
+        {
+            "description": {
+                "spanish": "Subir la temperatura",
+                "english": "Increase the temperature"
+            },
+            "link": "5/temperatura"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/bano"
+        }
+    ]
+}

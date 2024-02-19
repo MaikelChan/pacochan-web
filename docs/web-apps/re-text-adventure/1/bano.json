@@ -1,0 +1,42 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Estás en el baño. ¿Qué haces?</p>",
+        "english": "<p>You are in the bathroom. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Encender la calefacción",
+                "english": "Turn on the heating"
+            },
+            "link": "1/calefaccion"
+        },
+        {
+            "description": {
+                "spanish": "Mirarte en el espejo",
+                "english": "Look at yourself in the mirror"
+            },
+            "link": "1/espejo"
+        },
+        {
+            "description": {
+                "spanish": "Tirar del tapón de la bañera",
+                "english": "Pull the plug from the bathtub"
+            },
+            "link": "1/tapon-banera"
+        },
+        {
+            "description": {
+                "spanish": "Volver al dormitorio",
+                "english": "Go back to your bedroom"
+            },
+            "link": "1/dormitorio"
+        }
+    ]
+}

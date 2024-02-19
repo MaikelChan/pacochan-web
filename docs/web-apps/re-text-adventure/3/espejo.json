@@ -1,0 +1,21 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Has limpiado el espejo con el cacho de manta. La verdad es que eres bastante feo. Un momento...</p><p>Detrás de ti hay un hacha. Vaya lugar para ponerla, aunque puede ser de utilidad.</p>",
+        "english": "<p>You have cleaned the mirror with the piece of blanket. You are quite ugly actually. Wait a second...</p><p>There's an axe behind you. What a weird place to leave it, but it could be useful.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/bano"
+        }
+    ]
+}

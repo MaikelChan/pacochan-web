@@ -1,0 +1,42 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>La calefacción vuelve a estar encendida. ¿Qué haces?</p>",
+        "english": "<p>The heating is back on. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Manipular la calefacción",
+                "english": "Manipulate the heating"
+            },
+            "link": "5/calefaccion"
+        },
+        {
+            "description": {
+                "spanish": "Darte una ducha",
+                "english": "Take a shower"
+            },
+            "link": "5/ducha"
+        },
+        {
+            "description": {
+                "spanish": "Mirarte en el espejo",
+                "english": "Look at yourself in the mirror"
+            },
+            "link": "5/espejo"
+        },
+        {
+            "description": {
+                "spanish": "Volver al pasillo",
+                "english": "Go back to the corridor"
+            },
+            "link": "5/pasillo"
+        }
+    ]
+}

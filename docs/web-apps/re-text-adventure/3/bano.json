@@ -1,0 +1,42 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Apagaré la calefacción. Este calor es insoportable. ¿Qué haces?</p>",
+        "english": "<p>I'll turn off the heating. This heat is unbearable. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Limpiar bañera",
+                "english": "Clean the bathtub"
+            },
+            "link": "3/banera"
+        },
+        {
+            "description": {
+                "spanish": "Mirarte en el espejo",
+                "english": "Look at yourself in the mirror"
+            },
+            "link": "3/espejo"
+        },
+        {
+            "description": {
+                "spanish": "Mear un rato",
+                "english": "Piss for a while"
+            },
+            "link": "3/mear"
+        },
+        {
+            "description": {
+                "spanish": "Volver al pasillo",
+                "english": "Go back to the corridor"
+            },
+            "link": "3/pasillo"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Manda huevos! Son las tres y veinte de la madrugada. Espera un segundo... la aguja grande señala hacia una...</p><p>¡LLAVE! ¿De dónde será?</p>",
+        "english": "<p>Damn! It's twenty past three in the morning. Wait a second... the big hand of the clock points to...</p><p>A KEY! Where is it from though?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/salon"
+        }
+    ]
+}

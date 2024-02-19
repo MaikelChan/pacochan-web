@@ -1,0 +1,21 @@
+{
+    "initialSound": "muerto",
+    "bgColors": [
+        "#000",
+        "#400"
+    ],
+    "style": "death",
+    "description": {
+        "spanish": "<p>Te has suicidado al fumarte un canuto de nuez moscada y diarrea reseca.</p>",
+        "english": "<p>You have killed yourself by smoking a joint of nutmeg and dried diarrhea.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Empezar de nuevo",
+                "english": "Start a new game"
+            },
+            "link": "index"
+        }
+    ]
+}

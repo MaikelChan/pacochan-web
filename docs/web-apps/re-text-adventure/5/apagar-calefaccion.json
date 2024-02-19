@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>El regulador no gira a la izquierda.</p>",
+        "english": "<p>The knob doesn't turn left.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/bano"
+        }
+    ]
+}

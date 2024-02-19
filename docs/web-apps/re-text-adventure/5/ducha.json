@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>La verdad es que estando todo manchado no vendría mal, pero el agua está congelada.</p>",
+        "english": "<p>Truth is that being all dirty, taking a shower would be great. But the water is freezing.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/bano"
+        }
+    ]
+}

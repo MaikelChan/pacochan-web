@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#31f"
+    ],
+    "style": "labyrinth",
+    "description": {
+        "spanish": "<p>¿Qué camino eliges?</p>",
+        "english": "<p>What path do you choose?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Izquierda",
+                "english": "Left"
+            },
+            "link": "5/laberinto/1"
+        },
+        {
+            "description": {
+                "spanish": "Centro",
+                "english": "Middle"
+            },
+            "link": "5/laberinto/6"
+        },
+        {
+            "description": {
+                "spanish": "Derecha",
+                "english": "Right"
+            },
+            "link": "5/laberinto/7"
+        }
+    ]
+}

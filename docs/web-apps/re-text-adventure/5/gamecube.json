@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Aunque todos saben que la GameCube es la mejor consola, es mejor permanecer alerta.</p>",
+        "english": "<p>Even though everyone knows the GameCube is the best console, it will be better to stay alert.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Apagar la GameCube",
+                "english": "Turn off the GameCube"
+            },
+            "link": "5/dormitorio2"
+        }
+    ]
+}

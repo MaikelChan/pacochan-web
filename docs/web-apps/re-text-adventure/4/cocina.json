@@ -1,0 +1,42 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Con el hacha has destrozado la puerta. (Menuda bronca que te echarán tus padres...)</p>",
+        "english": "<p>With the axe you have smashed the door. (Your parents surely are going to scold you for this...)</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Lavar los platos",
+                "english": "Wash the dishes"
+            },
+            "link": "4/platos"
+        },
+        {
+            "description": {
+                "spanish": "Fregar el suelo",
+                "english": "Mop the floor"
+            },
+            "link": "4/fregar"
+        },
+        {
+            "description": {
+                "spanish": "Cocinar algo en el microondas",
+                "english": "Cook something in the microwave"
+            },
+            "link": "4/cocinar"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/salon"
+        }
+    ]
+}

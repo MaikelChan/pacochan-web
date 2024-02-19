@@ -1,0 +1,143 @@
+{
+    "id": "pacochan_website",
+    "lang": "en",
+    "name": "PacoChan's Website",
+    "short_name": "PacoChan's Website",
+    "description": "Hi, I'm PacoChan! I love computers and video games since I was a little kid, and spend my time developing them or porting them to consoles.",
+    "start_url": "/",
+    "theme_color": "#292524",
+    "background_color": "#292524",
+    "display": "standalone",
+    "orientation": "any",
+    "categories": [
+        "games"
+    ],
+    "icons": [
+        {
+            "src": "/android-chrome-512x512.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-chrome-maskable-512x512.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Articles",
+            "url": "/articles",
+            "icons": [
+                {
+                    "src": "/img/section-icons/articles.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/articles-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        },
+        {
+            "name": "Games",
+            "url": "/games",
+            "icons": [
+                {
+                    "src": "/img/section-icons/games.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/games-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        },
+        {
+            "name": "Romhacking",
+            "url": "/romhacking",
+            "icons": [
+                {
+                    "src": "/img/section-icons/romhacking.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/romhacking-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        },
+        {
+            "name": "Software",
+            "url": "/software",
+            "icons": [
+                {
+                    "src": "/img/section-icons/software.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/software-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        },
+        {
+            "name": "Links",
+            "url": "/links",
+            "icons": [
+                {
+                    "src": "/img/section-icons/links.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/links-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        },
+        {
+            "name": "Contact",
+            "url": "/contact",
+            "icons": [
+                {
+                    "src": "/img/section-icons/contact.svg",
+                    "sizes": "96x96",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/img/section-icons/contact-maskable.svg",
+                    "sizes": "96x96",
+                    "purpose": "maskable"
+                }
+            ]
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/img/site-featured.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpeg",
+            "form_factor": "wide",
+            "label": "Homescreen of PacoChan's Software"
+        },
+        {
+            "src": "/img/site-featured-portrait.jpg",
+            "sizes": "720x1280",
+            "type": "image/jpeg",
+            "form_factor": "narrow",
+            "label": "Homescreen of PacoChan's Software mobile version"
+        }
+    ]
+}

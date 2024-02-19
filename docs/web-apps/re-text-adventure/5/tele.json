@@ -1,0 +1,28 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Has conseguido encender la tele. Los zombis la han oído y van hacia ella. Eso te permitirá acceder a la entrada cuando se alejen de ella.</p>",
+        "english": "<p>You have managed to turn on the TV. The zombies have heard it and are heading towards it. This will allow you to access the entrance when they move away from it.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Atacar a los zombis",
+                "english": "Attack the zombies"
+            },
+            "link": "5/atacar"
+        },
+        {
+            "description": {
+                "spanish": "Escapar corriendo",
+                "english": "Run away"
+            },
+            "link": "5/fin"
+        }
+    ]
+}

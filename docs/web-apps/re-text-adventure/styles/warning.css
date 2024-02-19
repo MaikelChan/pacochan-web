@@ -1,0 +1,31 @@
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: yellow;
+}
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: #ff5934;
+}
+
+span {
+    color: #ff5934;
+}
+
+li {
+    color: #ff5934;
+}
+
+a {
+    color: #ff5934;
+}
+
+a:hover {
+    color: #FFFF00;
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "fin",
+    "bgColors": [
+        "#f00",
+        "#00f"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡¡¡¡¡¡HAS CONSEGUIDO LLEGAR Al FINAL!!!!!!!</p><p>La verdad es que cuando tus padres se enteren de la que has armado te esperará una gorda. Pero al menos estás vivo.</p><h3>Créditos</h3><p>Historia: Miguel Rivera<br>Programación: Miguel Rivera<br>Efectos de sonido: Sacados de videojuegos y películas<br>Tiempo de desarrollo: 8h. Aproximadamente<br>Miguel Rivera Productions © 2002 All rights reserved.</p><p>&nbsp;</p>",
+        "english": "<p>YOU HAVE MANAGED TO REACH THE ENDING!!!!!!!</p><p>When your parents find out what you've done to the house, they're going to scold you for sure. But at least you are alive.</p><h3>Credits</h3><p>Story: Miguel Rivera<br>Programming: Miguel Rivera<br>Sound effects: Out of games and movies<br>Development time: 8h approximately<br>Miguel Rivera Productions © 2002 All rights reserved.</p><p>&nbsp;</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver a empezar",
+                "english": "Start a new game"
+            },
+            "link": "index"
+        }
+    ]
+}

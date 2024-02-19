@@ -1,0 +1,25 @@
+{
+    "initialSound": "fin",
+    "bgColors": [
+        "#CBCDFE",
+        "#A1CAFE",
+        "#CA9AFE",
+        "#976BFE",
+        "#A1CAFE",
+        "#CBCDFE"
+    ],
+    "style": "hell",
+    "description": {
+        "spanish": "<p>¡¡¡¡¡¡HAS CONSEGUIDO LLEGAR Al FINAL SECRETO Nº2!!!!!!!</p><p>La sorpresa es la contraseña para poder jugar al Resident Evil Zero, el cual todavía estoy haciendo: 987TR7Y5K3F</p><h3>Créditos</h3><p>Historia: Miguel Rivera<br>Programación: Miguel Rivera<br>Efectos de sonido: Sacados de videojuegos y películas<br>Tiempo de desarrollo: 8h. Aproximadamente<br>Miguel Rivera Productions © 2002 All rights reserved.</p><p>&nbsp;</p>",
+        "english": "<p>YOU HAVE MANAGED TO REACH THE SECRET ENDING 2!!!!!!!</p><p>The surprise is the password that will allow you to play Resident Evil Zero, which is still in development: 987TR7Y5K3F</p><h3>Credits</h3><p>Story: Miguel Rivera<br>Programming: Miguel Rivera<br>Sound effects: Out of games and movies<br>Development time: 8h approximately<br>Miguel Rivera Productions © 2002 All rights reserved.</p><p>&nbsp;</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver a empezar",
+                "english": "Start a new game"
+            },
+            "link": "index"
+        }
+    ]
+}

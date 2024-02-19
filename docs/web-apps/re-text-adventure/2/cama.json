@@ -1,0 +1,21 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Se me ha roto un cacho de manta. Podría servir para algo...</p>",
+        "english": "<p>I broke a piece of blanket. It could be useful for something...</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "3/pasillo"
+        }
+    ]
+}

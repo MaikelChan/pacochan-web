@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Estás en el baño. ¿Qué haces?</p>",
+        "english": "<p>You are in the bathroom. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Romper el espejo con el hacha",
+                "english": "Break the mirror with the axe"
+            },
+            "link": "4/espejo"
+        },
+        {
+            "description": {
+                "spanish": "Mear otro rato",
+                "english": "Piss for another while"
+            },
+            "link": "4/mear"
+        },
+        {
+            "description": {
+                "spanish": "Volver al pasillo",
+                "english": "Go back to the corridor"
+            },
+            "link": "4/pasillo"
+        }
+    ]
+}

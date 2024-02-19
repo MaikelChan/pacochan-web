@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#0c0"
+    ],
+    "style": "warning",
+    "description": {
+        "spanish": "<p>¡Joder, que susto! Estoy todo manchado de sangre.</p>",
+        "english": "<p>Fuck, what a scare! I'm all covered in blood.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/bano"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Ya son las cinco menos cuarto. Las agujas no señalan hacia ningún sitio en particular.</p>",
+        "english": "<p>It is already a quarter to five. The hands are not pointing anywhere in particular.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/salon"
+        }
+    ]
+}

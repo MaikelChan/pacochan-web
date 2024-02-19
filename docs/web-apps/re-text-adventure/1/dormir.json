@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Si no quieres palmarla más te vale permanecer despierto.</p>",
+        "english": "<p>If you don't want to bite the dust, you'd better stay awake.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/dormitorio"
+        }
+    ]
+}

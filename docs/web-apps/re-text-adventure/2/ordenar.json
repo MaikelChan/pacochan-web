@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Me da pereza, además no es mi habitación.</p>",
+        "english": "<p>I'm lazy, besides, it's not my room.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/dormitorio2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>No has podido encender la tele porque el mando no tiene pilas. ¿Qué haces?</p>",
+        "english": "<p>You couldn't turn on the TV because the remote control had no batteries. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/salon"
+        }
+    ]
+}

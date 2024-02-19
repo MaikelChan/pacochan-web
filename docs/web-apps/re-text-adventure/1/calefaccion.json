@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Qué bien que se está ahora! Hacía bastante frío.</p>",
+        "english": "<p>It feels so nice now! It was pretty cold.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/bano"
+        }
+    ]
+}

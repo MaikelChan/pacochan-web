@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Estás en el baño. ¿Qué haces?</p>",
+        "english": "<p>You are in the bathroom. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Encender la calefacción",
+                "english": "Turn on the heating"
+            },
+            "link": "2/calefaccion"
+        },
+        {
+            "description": {
+                "spanish": "Mirarte en el espejo",
+                "english": "Look at yourself in the mirror"
+            },
+            "link": "2/espejo"
+        },
+        {
+            "description": {
+                "spanish": "Volver al pasillo",
+                "english": "Go back to the corridor"
+            },
+            "link": "2/pasillo"
+        }
+    ]
+}

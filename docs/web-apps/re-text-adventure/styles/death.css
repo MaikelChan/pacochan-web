@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(204, 151, 54);
+}
+
+h2 {
+    color: #aa0039;
+}
+
+p {
+    color: #aa0039;
+}
+
+span {
+    color: #aa0039;
+}
+
+li {
+    color: #aa0039;
+}
+
+a {
+    color: #aa0039;
+}
+
+a:hover {
+    color: #ff1e62;
+}

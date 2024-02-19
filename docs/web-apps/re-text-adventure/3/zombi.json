@@ -1,0 +1,21 @@
+{
+    "initialSound": "muerto",
+    "bgColors": [
+        "#000",
+        "#400"
+    ],
+    "style": "death",
+    "description": {
+        "spanish": "<p>Bajas sigilosamente. El zombi todavía no te ha visto. Te tropiezas. El ruido llama la atención al zombi. Viene corriendo hacia ti. No te da tiempo a levantarte. El zombi se te echa encima. No puedes quitártelo de encima. Te muerde en el cuello y te lo despedaza. Echas a gritar. Te abre las tripas y las esparce por todo el suelo.</p><p>Ya no puedes hacer nada. La cruda realidad es evidente:</p><h2>¡HAS MUERTO!</h2>",
+        "english": "<p>You silently go downstairs. The zombie hasn't seen you yet. You stumble. The noise draws the zombie's attention. It comes running towards you. You don't have time to get up. The zombie is on top of you. You can't shake it off. It bites you in the neck and rips it to shreds. You start screaming. It rips open your chest and spreads your guts all over the floor.</p><p>You can no longer do anything. The harsh reality is obvious:</p><h2>YOU ARE DEAD!</h2>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Empezar de nuevo",
+                "english": "Start again"
+            },
+            "link": "index"
+        }
+    ]
+}

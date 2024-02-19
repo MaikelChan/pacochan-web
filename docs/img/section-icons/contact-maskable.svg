@@ -1,0 +1,13 @@
+<svg width="96" height="96" viewBox="0 0 96 96" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Maskable">
+        <rect x="0" y="0" width="96" height="96" style="fill:#292524;"/>
+        <g id="Contact">
+            <path d="M30.564,40.528l11.209,7.472l11.209,-7.472" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:4.98px;"/>
+            <path d="M60.454,65.436l-34.871,-0c-2.752,-0 -4.982,-2.231 -4.982,-4.982l0,-24.908c0,-2.751 2.23,-4.982 4.982,-4.982l32.38,0c2.752,0 4.982,2.231 4.982,4.982l-0,4.982" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:4.98px;stroke-linejoin:miter;"/>
+            <path d="M60.454,52.982l14.945,-0m-0,-0l-7.472,-7.473m7.472,7.473l-7.472,7.472" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:4.98px;"/>
+        </g>
+    </g>
+</svg>

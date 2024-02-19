@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Con el calor que hace (120 grados), ¡el agua del váter se ha evaporado!</p><p>Dentro hay un botón que al pulsarlo abre una compuerta secreta justo donde está el espejo.</p><p>¿Te metes dentro?</p>",
+        "english": "<p>With this much heat (120 degrees celsius), the water in the toilet has evaporated!</p><p>Inside there is a button that when pressed opens a secret hatch right where the mirror is.</p><p>Will you get inside?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Meterte dentro",
+                "english": "Go inside"
+            },
+            "link": "5/laberinto/0"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/bano"
+        }
+    ]
+}

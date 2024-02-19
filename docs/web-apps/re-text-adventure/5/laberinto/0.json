@@ -1,0 +1,21 @@
+{
+    "initialSound": "dimension",
+    "bgColors": [
+        "#000",
+        "#31f"
+    ],
+    "style": "labyrinth",
+    "description": {
+        "spanish": "<p>Estás en la dimensión del laberinto. Para salir de aquí y llegar al ¡¡FINAL SECRETO Nº2!! tendrás que elegir entre el camino del centro, el de la derecha o el de la izquierda.</p>",
+        "english": "<p>You are in the labyrinth dimension. To get out of here and reach the SECRET ENDING #2!!! you will have to choose between the path in the center, the one on the right or the one on the left.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Continuar",
+                "english": "Continue"
+            },
+            "link": "5/laberinto/1"
+        }
+    ]
+}

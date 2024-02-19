@@ -1,0 +1,12 @@
+<svg width="96" height="96" viewBox="0 0 96 96" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Normal">
+        <circle cx="48" cy="48" r="48" style="fill:#292524;"/>
+        <g id="Links">
+            <path d="M54,48c-0,-7.475 -6.951,-14.992 -15.428,-14.992c-1.004,-0 -4.314,-0 -5.143,-0c-8.52,-0 -15.428,6.712 -15.428,14.992c0,7.135 5.129,13.106 12,14.621c1.102,0.243 2.25,0.371 3.428,0.371" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:6px;"/>
+            <path d="M42,48c0,7.475 6.951,14.992 15.428,14.992l5.143,0c8.52,0 15.428,-6.712 15.428,-14.992c-0,-7.135 -5.129,-13.106 -12,-14.621c-1.103,-0.243 -2.25,-0.371 -3.428,-0.371" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:6px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Qué limpia que ha quedado! Ahora uno se podrá bañar como toca.</p>",
+        "english": "<p>How clean it is now! Now you can bathe properly.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "3/bano"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Hay una ventana entreabierta, aunque antes estaba cerrada. ¿Qué haces?</p>",
+        "english": "<p>There's a window partially open, even though it was closed before. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Cerrar la ventana",
+                "english": "Close the window"
+            },
+            "link": "5/ventana"
+        },
+        {
+            "description": {
+                "spanish": "Jugar a la GameCube",
+                "english": "Play with the GameCube"
+            },
+            "link": "5/gamecube"
+        },
+        {
+            "description": {
+                "spanish": "Volver al pasillo",
+                "english": "Go back to the corridor"
+            },
+            "link": "5/pasillo"
+        }
+    ]
+}

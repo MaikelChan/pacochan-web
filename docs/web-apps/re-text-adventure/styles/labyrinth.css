@@ -1,0 +1,38 @@
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: yellow;
+}
+
+p {
+    color: #00FF00;
+}
+
+span {
+    color: #00FF00;
+}
+
+ol {
+    padding: 0;
+}
+
+li {
+    color: #ff1e00;
+    list-style-type: none;
+    display: inline;
+}
+
+#settings a {
+    color: #00FF00;
+}
+
+#content a {
+    color: #ff1e00;
+    margin: 0 75px 0 75px;
+}
+
+#content a:hover {
+    color: #FFFF00;
+}

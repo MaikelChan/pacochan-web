@@ -1,0 +1,28 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#0c0"
+    ],
+    "style": "warning",
+    "description": {
+        "spanish": "<p>¡JODER! Te has cargado el pie y te estás desangrando. Deberías llamar a alguien... ¿Qué haces?</p>",
+        "english": "<p>FOR FUCK'S SAKE! You broke your foot and you are bleeding out. You should call someone. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ir al salón",
+                "english": "Go to the living room"
+            },
+            "link": "1/salon"
+        },
+        {
+            "description": {
+                "spanish": "Ir al pasillo",
+                "english": "Go to the corridor"
+            },
+            "link": "1/pasillo"
+        }
+    ]
+}

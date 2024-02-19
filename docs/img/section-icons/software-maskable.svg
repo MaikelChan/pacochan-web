@@ -1,0 +1,15 @@
+<svg width="96" height="96" viewBox="0 0 96 96" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Maskable">
+        <rect x="0" y="0" width="96" height="96" style="fill:#292524;"/>
+        <g id="Software">
+            <circle cx="32.174" cy="32.09" r="2.246" style="fill:#a3e635;"/>
+            <circle cx="38.838" cy="32.09" r="2.246" style="fill:#a3e635;"/>
+            <circle cx="45.501" cy="32.09" r="2.246" style="fill:#a3e635;"/>
+            <path d="M25.511,37.088l44.978,-0" style="fill:none;fill-rule:nonzero;stroke:#a3e635;stroke-width:5px;"/>
+            <path d="M70.489,31.177l-0,32.644c-0,2.252 -1.829,4.08 -4.081,4.08l-36.816,0c-2.252,0 -4.081,-1.828 -4.081,-4.08l0,-32.644c0,-2.253 1.829,-4.081 4.081,-4.081l36.816,0c2.252,0 4.081,1.828 4.081,4.081Z" style="fill:none;stroke:#a3e635;stroke-width:5px;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+{
+    "initialSound": "premio",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Al abrir el microondas ves dos pilas. ¡¿Qué coño hacen ahí?!</p>",
+        "english": "<p>When you open the microwave you see two batteries. What the hell are they doing in there?!</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "5/cocina"
+        }
+    ]
+}

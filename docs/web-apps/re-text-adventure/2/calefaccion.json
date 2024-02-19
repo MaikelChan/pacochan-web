@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Ya hace demasiado calor. Lo raro es, ¿por qué no se desempaña el espejo?</p>",
+        "english": "<p>It's really hot already. The weird thing is, why isn't the mirror defogging?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Subir todavía más la calefacción",
+                "english": "Increase the heating even more"
+            },
+            "link": "2/calefaccion2"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/bano"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "initialSound": "re",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Unos ruidos recién te han despertado. ¿Qué haces?</p>",
+        "english": "<p>Some strange noises suddenly woke you up. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ir al baño",
+                "english": "Go to the bathroom"
+            },
+            "link": "1/bano"
+        },
+        {
+            "description": {
+                "spanish": "Ir al pasillo",
+                "english": "Go to the corridor"
+            },
+            "link": "1/pasillo"
+        },
+        {
+            "description": {
+                "spanish": "Ir a dormir",
+                "english": "Go back to sleep"
+            },
+            "link": "1/dormir"
+        }
+    ]
+}

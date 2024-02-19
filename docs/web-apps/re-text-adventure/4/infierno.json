@@ -1,0 +1,22 @@
+{
+    "initialSound": "muerto",
+    "bgColors": [
+        "#ff0",
+        "#f00",
+        "#000"
+    ],
+    "style": "hell",
+    "description": {
+        "spanish": "<p>Estás en el infierno. Aquí pasarás el resto de tus días.</p>",
+        "english": "<p>You are in hell. Here you'll stay for the rest of your days.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Empezar de nuevo",
+                "english": "Start a new game"
+            },
+            "link": "index"
+        }
+    ]
+}

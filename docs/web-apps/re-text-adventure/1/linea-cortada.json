@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#0c0"
+    ],
+    "style": "warning",
+    "description": {
+        "spanish": "<p>¡LA LÍNEA ESTÁ CORTADA!</p>",
+        "english": "<p>THE LINE IS CUT!</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Colgar el teléfono",
+                "english": "Hang up the phone"
+            },
+            "link": "1/salon"
+        }
+    ]
+}

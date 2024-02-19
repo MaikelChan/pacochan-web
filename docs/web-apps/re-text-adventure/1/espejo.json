@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>El espejo está empañado y no te puedes mirar en él.</p>",
+        "english": "<p>The mirror is fogged and you can't see yourself in it.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/bano"
+        }
+    ]
+}

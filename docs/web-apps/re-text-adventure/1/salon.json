@@ -1,0 +1,49 @@
+{
+    "initialSound": "susto",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Te has pegado un susto de muerte! Has visto un zombi pero él no te ha visto... por ahora.</p>",
+        "english": "<p>You were scared to death! You've seen a zombie but he hasn't seen you.... for now.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ver la tele",
+                "english": "Watch the TV"
+            },
+            "link": "1/tele"
+        },
+        {
+            "description": {
+                "spanish": "Mirar el reloj",
+                "english": "Inspect the clock"
+            },
+            "link": "1/reloj"
+        },
+        {
+            "description": {
+                "spanish": "Llamar por teléfono",
+                "english": "Use the phone"
+            },
+            "link": "1/telefono"
+        },
+        {
+            "description": {
+                "spanish": "Ir a la cocina",
+                "english": "Go to the kitchen"
+            },
+            "link": "1/cocina"
+        },
+        {
+            "description": {
+                "spanish": "Ir al pasillo",
+                "english": "Go to the corridor"
+            },
+            "link": "1/pasillo"
+        }
+    ]
+}

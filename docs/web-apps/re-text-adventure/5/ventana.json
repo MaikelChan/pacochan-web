@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Al cerrar la ventana te has acordado de que abajo está la piscina. Para salir te podrías tirar. ¿Qué haces?</p>",
+        "english": "<p>When closing the window you remembered that there's a swimming pool below. In order to escape you could jump down. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Tirarte",
+                "english": "Jump down"
+            },
+            "link": "5/fin-secreto"
+        },
+        {
+            "description": {
+                "spanish": "Quedarte aquí",
+                "english": "Stay here"
+            },
+            "link": "5/dormitorio2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡Qué asco, un cacho de hígado! La sangre no se va...</p>",
+        "english": "<p>Yuck, a piece of liver! The blood doesn't go away...</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/salon"
+        }
+    ]
+}

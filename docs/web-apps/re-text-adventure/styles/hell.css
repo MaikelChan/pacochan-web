@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(94, 0, 16);
+}
+
+h2 {
+    color: #aa0039;
+}
+
+p {
+    color: #3700ce;
+}
+
+span {
+    color: #aa0039;
+}
+
+li {
+    color: #3700ce;
+}
+
+a {
+    color: #3700ce;
+}
+
+a:hover {
+    color: #00cbe6;
+}

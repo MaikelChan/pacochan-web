@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡¡DEBE HACER YA 35 GRADOS POR LO MENOS. Y ENCIMA NO SE DESEMPAÑA EL PUTO ESPEJO!!<br><br>Esto es demasiado raro...</p>",
+        "english": "<p>IT MUST BE AT LEAST 35 DEGREES CELSIUS BY NOW. AND ON TOP OF THAT, THE FUCKING MIRROR DOESN'T DEFOG!!<br><br>This is too strange...</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/bano"
+        }
+    ]
+}

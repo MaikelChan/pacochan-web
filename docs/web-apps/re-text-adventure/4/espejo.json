@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Mejor no lo haré. Dicen que trae 7 años de mala suerte. ¿Qué haces?</p>",
+        "english": "<p>I'd better not. They say it brings 7 years of bad luck. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Romper el espejo",
+                "english": "Break the mirror"
+            },
+            "link": "4/romper-espejo"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/bano"
+        }
+    ]
+}

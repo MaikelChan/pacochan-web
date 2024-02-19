@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Coges el teléfono. ¿A quién quieres llamar?</p>",
+        "english": "<p>You pick up the phone. Who do you want to call?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "A la policía",
+                "english": "To the police"
+            },
+            "link": "1/linea-cortada"
+        },
+        {
+            "description": {
+                "spanish": "A tu madre",
+                "english": "To your mother"
+            },
+            "link": "1/linea-cortada"
+        },
+        {
+            "description": {
+                "spanish": "A las oficinas de una famosa marca de compresas",
+                "english": "To the offices of a famous brand of napkins"
+            },
+            "link": "1/linea-cortada"
+        }
+    ]
+}

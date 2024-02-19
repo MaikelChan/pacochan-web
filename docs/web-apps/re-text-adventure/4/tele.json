@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Todavía no puedo encender la tele. Necesito pilas para el mando.</p>",
+        "english": "<p>I still can't turn on the TV. I need the controller's batteries.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/salon"
+        }
+    ]
+}

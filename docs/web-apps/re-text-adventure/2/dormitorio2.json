@@ -1,0 +1,42 @@
+{
+    "initialSound": "puerta",
+    "bgColors": [
+        "#000",
+        "#f70"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>¡¡HAS CONSEGUIDO ABRIR LA PUERTA!!</p>",
+        "english": "<p>YOU MANAGED TO OPEN THE DOOR!!</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Encender la luz",
+                "english": "Turn on the light"
+            },
+            "link": "2/luz"
+        },
+        {
+            "description": {
+                "spanish": "Ordenar el dormitorio",
+                "english": "Tidy up the bedroom"
+            },
+            "link": "2/ordenar"
+        },
+        {
+            "description": {
+                "spanish": "Hacer la cama",
+                "english": "Make the bed"
+            },
+            "link": "2/cama"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/pasillo"
+        }
+    ]
+}

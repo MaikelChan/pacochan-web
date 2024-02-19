@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Por el bien de tu vida, es mejor no bajar ahora. Hay un zombi comiéndose el sofá del salón. ¿Qué haces?</p>",
+        "english": "<p>For your life's sake, it's better not to go downstairs now. There's a zombie eating the couch at the living room. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Quedarse en el pasillo",
+                "english": "Stay in the corridor"
+            },
+            "link": "4/pasillo"
+        },
+        {
+            "description": {
+                "spanish": "Bajar las escaleras",
+                "english": "Go downstairs"
+            },
+            "link": "4/salon"
+        }
+    ]
+}

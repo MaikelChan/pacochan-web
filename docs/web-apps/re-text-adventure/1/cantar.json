@@ -1,0 +1,22 @@
+{
+    "initialSound": "cantar",
+    "localizedSound": true,
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Será mejor que pare de cantar.</p>",
+        "english": "<p>I'd better stop singing.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/pasillo"
+        }
+    ]
+}

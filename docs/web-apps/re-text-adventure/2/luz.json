@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Al menos ahora se puede ver algo. ¡JODER! Esta habitación está hecha un asco.</p>",
+        "english": "<p>At least now you can see something. FUCK! This room is a mess.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "2/dormitorio2"
+        }
+    ]
+}

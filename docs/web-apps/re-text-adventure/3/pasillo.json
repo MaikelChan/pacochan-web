@@ -1,0 +1,28 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Ya no se oyen los ruidos. Esto es bastante acojonante.</p>",
+        "english": "<p>There are no noises anymore. This is so scary.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Ir al baño",
+                "english": "Go to the bathroom"
+            },
+            "link": "3/bano"
+        },
+        {
+            "description": {
+                "spanish": "Bajar las escaleras",
+                "english": "Go downstairs"
+            },
+            "link": "3/salon"
+        }
+    ]
+}

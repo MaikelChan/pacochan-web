@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>El suelo está lleno de mierda del perro y de restos de comida. Parece que el perro se ha escapado hacia el jardín.</p><p>Me da pereza limpiar, hay cosas más importantes que hacer.</p>",
+        "english": "<p>The floor is full of dog shit and food leftovers. Looks like the dog escaped to the garden.</p><p>I can't be bothered cleaning this mess, besides, there are more important things to do.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "4/cocina"
+        }
+    ]
+}

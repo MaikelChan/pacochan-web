@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#0c0"
+    ],
+    "style": "warning",
+    "description": {
+        "spanish": "<p>¡Joder, qué ganas que tenía!<br><br>¡AAAAAAAH! ¡QUÉ SUSTO! Parece que uno de los jodidos zombis se ha cargado algo en el salón.</p>",
+        "english": "<p>Aaah, it feels so much better now!<br><br>AAAAAAH! WHAT A SCARE I GOT! It looks like one of those fucking zombies has broken something in the living room.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "3/bano"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>La bañera estaba llena de agua sucia. ¿Quién la habrá llenado?</p>",
+        "english": "<p>The bathtub was full of dirty water. Who must have filled it?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/bano"
+        }
+    ]
+}

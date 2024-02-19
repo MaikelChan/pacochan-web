@@ -1,0 +1,21 @@
+{
+    "initialSound": "aviso",
+    "bgColors": [
+        "#000",
+        "#0c0"
+    ],
+    "style": "warning",
+    "description": {
+        "spanish": "<p>Me temo que no puedes hacer eso. Te has dejado el hacha en la cocina y hay un zombi bloqueando la puerta. Creo que lo mejor será escapar y que de los zombis se encargue la policía.</p>",
+        "english": "<p>I'm afraid you can't do that. You left your axe in the kitchen and there's a zombie blocking the door. I think the best thing to do is to escape and let the police deal with the zombies.</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Escapar",
+                "english": "Run away"
+            },
+            "link": "5/fin"
+        }
+    ]
+}

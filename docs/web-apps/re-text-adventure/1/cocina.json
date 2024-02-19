@@ -1,0 +1,35 @@
+{
+    "initialSound": "",
+    "bgColors": [
+        "#000",
+        "#f00"
+    ],
+    "style": "default",
+    "description": {
+        "spanish": "<p>Da la casualidad de que la puerta está cerrada con llave. ¿Qué haces?</p>",
+        "english": "<p>It just so happens that the door is locked. What do you do?</p>"
+    },
+    "options": [
+        {
+            "description": {
+                "spanish": "Tirar la puerta de una patada",
+                "english": "Kick the door down"
+            },
+            "link": "1/patada"
+        },
+        {
+            "description": {
+                "spanish": "Forzar la cerradura",
+                "english": "Pick the lock"
+            },
+            "link": "1/cerradura"
+        },
+        {
+            "description": {
+                "spanish": "Volver",
+                "english": "Go back"
+            },
+            "link": "1/salon"
+        }
+    ]
+}
