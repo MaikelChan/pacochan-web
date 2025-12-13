@@ -35,9 +35,13 @@ async function LoadRoom(roomFile) {
     DrawBackground();
     UpdateContentHtml();
 
-    if (typeof umami !== 'undefined') {
-        const roomUrl = window.location.pathname + "?room=" + roomFile;
-        umami.track(props => ({ ...props, url: roomUrl }));
+    if (window.goatcounter !== undefined) {
+        const roomUrl = window.location.pathname + "?room=" + roomFile + "?language=" + currentLanguageIndex + "?audioEnabled=" + currentAudioEnabled;
+        window.goatcounter.count({
+            path:  roomUrl,
+            title: 'RE Text Adventure',
+            event: true
+        });
     }
 }
 
